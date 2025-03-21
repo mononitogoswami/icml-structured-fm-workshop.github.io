@@ -76,4 +76,4 @@ A review should have the following content.
 
 ## Contact
 
-If you have questions about this workshop or are not sure if your paper's topic is suitable for submission, please feel free to contact the organizers at **Contact Email TBD**.
+If you have questions about this workshop or are not sure if your paper's topic is suitable for submission, please feel free to contact the organizers at [icml-structured-foundation-workshop@googlegroups.com](mailto:icml-structured-foundation-workshop@googlegroups.com).

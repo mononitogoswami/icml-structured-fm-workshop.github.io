@@ -42,3 +42,7 @@ Refer to the [ICML website](https://icml.cc/) for the detailed schedule.
 **Note**: We do not yet know if the workshop will be held on July 18th or July 19th. We will update the date once we are given an update by the ICML organizers.
 
 Detailed schedule TBD.
+
+### Contact
+
+You can reach the organizers of the workshop at <a href="mailto:icml-structured-foundation-workshop@googlegroups.com">icml-structured-foundation-workshop@googlegroups.com</a>.

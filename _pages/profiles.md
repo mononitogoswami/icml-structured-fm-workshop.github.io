@@ -20,7 +20,7 @@ profiles:
       <p><a href="mailto: innixma@gmail.com">innixma@gmail.com</a></p>  
 
   - align: left
-    # image: prof_pic.png
+    image: organizers/xiyuan.jpg
     content: organizers/xiyuan.md 
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -40,13 +40,13 @@ profiles:
       <p><a href="mailto: abdulfatirs@gmail.com">abdulfatirs@gmail.com</a></p>
 
   - align: left
-    # image: prof_pic.png
+    image: organizers/boran.png
     content: organizers/boran.md 
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Amazon Web Services</p><br>
       <p>Santa Clara (US)</p><br>
-      <p><a href="https://scholar.google.com/citations?user=Prwxh24AAAAJ&hl=en">google scholar</a> </p>
+      <p><a href="https://boranhan.github.io/">website</a>, <a href="https://scholar.google.com/citations?user=Prwxh24AAAAJ&hl=en">google scholar</a> </p>
       <p><a href="mailto: boranhan@amazon.com">boranhan@amazon.com</a></p>  
 
   - align: right
@@ -60,27 +60,27 @@ profiles:
       <p><a href="mailto: mgoswami@andrew.cmu.edu">mgoswami@andrew.cmu.edu</a></p>  
 
   - align: left
-    # image: prof_pic.png
+    image: organizers/samuel.jpg
     content: organizers/samuel.md 
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Company/University</p><br>
-      <p>LOCATION</p><br>
-      <p><a href="https://scholar.google.com/citations?user=pevYEjAAAAAJ&hl=en">google scholar</a> </p>
+      <p>University of Freiburg</p><br>
+      <p>Freiburg (DE)</p><br>
+      <p><a href="https://ml.informatik.uni-freiburg.de/profile/mueller/">website</a>, <a href="https://scholar.google.com/citations?user=pevYEjAAAAAJ&hl=en">google scholar</a> </p>
       <p><a href="mailto: samuelgabrielmuller@gmail.com">samuelgabrielmuller@gmail.com</a></p>  
 
   - align: right
-    # image: prof_pic.png
+    image: organizers/lennart.jpg
     content: organizers/lennart.md 
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Company/University</p><br>
-      <p>LOCATION</p><br>
-      <p><a href="https://scholar.google.com/citations?user=x_HyTt0AAAAJ&hl=en">google scholar</a> </p>
+      <p>University of Freiburg</p><br>
+      <p>Freiburg (DE)</p><br>
+      <p><a href="https://ml.informatik.uni-freiburg.de/profile/purucker/">website</a>, <a href="https://scholar.google.com/citations?user=x_HyTt0AAAAJ&hl=en">google scholar</a> </p>
       <p><a href="mailto: purucker@cs.uni-freiburg.de">purucker@cs.uni-freiburg.de</a></p>  
 
   - align: left
-    # image: prof_pic.png
+    image: organizers/bernie.jpeg
     content: organizers/bernie.md 
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -90,23 +90,23 @@ profiles:
       <p><a href="mailto: yuyawang@amazon.com">yuyawang@amazon.com</a></p>  
 
   - align: right
-    # image: prof_pic.png
+    image: organizers/christos.jpg
     content: organizers/christos.md 
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Company/University</p><br>
-      <p>LOCATION</p><br>
-      <p><a href="https://scholar.google.com/citations?user=nd8lQQIAAAAJ&hl=en">google scholar</a> </p>
+      <p>Carnegie Mellon University</p><br>
+      <p>Pittsburgh (US)</p><br>
+      <p><a href="https://www.cs.cmu.edu/~christos/">website</a>, <a href="https://scholar.google.com/citations?user=nd8lQQIAAAAJ&hl=en">google scholar</a> </p>
       <p><a href="mailto: christos-admin-support@cs.cmu.edu">christos-admin-support@cs.cmu.edu</a></p>  
 
   - align: left
-    # image: prof_pic.png
+    image: organizers/michael.png
     content: organizers/michael.md 
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Company/University</p><br>
-      <p>LOCATION</p><br>
-      <p><a href="https://scholar.google.com/citations?user=QXyvv94AAAAJ&hl=en">google scholar</a> </p>
+      <p>UC Berkeley</p><br>
+      <p>Berkeley (US)</p><br>
+      <p><a href="https://www.stat.berkeley.edu/~mmahoney/">website</a>, <a href="https://scholar.google.com/citations?user=QXyvv94AAAAJ&hl=en">google scholar</a> </p>
       <p><a href="mailto: mmahoney@stat.berkeley.edu">mmahoney@stat.berkeley.edu</a></p>  
 
 ---

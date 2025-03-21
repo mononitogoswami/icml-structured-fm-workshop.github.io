@@ -10,7 +10,7 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: prof_pic.png
+    # image: prof_pic.png
     content: organizers/nick.md 
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -20,7 +20,7 @@ profiles:
       <p><a href="mailto: innixma@gmail.com">innixma@gmail.com</a></p>  
 
   - align: left
-    image: prof_pic.png
+    # image: prof_pic.png
     content: organizers/xiyuan.md 
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -40,7 +40,7 @@ profiles:
       <p><a href="mailto: abdulfatirs@gmail.com">abdulfatirs@gmail.com</a></p>
 
   - align: left
-    image: prof_pic.png
+    # image: prof_pic.png
     content: organizers/boran.md 
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -50,7 +50,7 @@ profiles:
       <p><a href="mailto: boranhan@amazon.com">boranhan@amazon.com</a></p>  
 
   - align: right
-    image: prof_pic.png
+    # image: prof_pic.png
     content: organizers/mononito.md 
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -60,7 +60,7 @@ profiles:
       <p><a href="mailto: mgoswami@andrew.cmu.edu">mgoswami@andrew.cmu.edu</a></p>  
 
   - align: left
-    image: prof_pic.png
+    # image: prof_pic.png
     content: organizers/samuel.md 
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -70,7 +70,7 @@ profiles:
       <p><a href="mailto: samuelgabrielmuller@gmail.com">samuelgabrielmuller@gmail.com</a></p>  
 
   - align: right
-    image: prof_pic.png
+    # image: prof_pic.png
     content: organizers/lennart.md 
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -80,7 +80,7 @@ profiles:
       <p><a href="mailto: purucker@cs.uni-freiburg.de">purucker@cs.uni-freiburg.de</a></p>  
 
   - align: left
-    image: prof_pic.png
+    # image: prof_pic.png
     content: organizers/bernie.md 
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -90,7 +90,7 @@ profiles:
       <p><a href="mailto: yuyawang@amazon.com">yuyawang@amazon.com</a></p>  
 
   - align: right
-    image: prof_pic.png
+    # image: prof_pic.png
     content: organizers/christos.md 
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -100,7 +100,7 @@ profiles:
       <p><a href="mailto: christos-admin-support@cs.cmu.edu">christos-admin-support@cs.cmu.edu</a></p>  
 
   - align: left
-    image: prof_pic.png
+    # image: prof_pic.png
     content: organizers/michael.md 
     image_circular: false # crops the image to make it circular
     more_info: >

@@ -12,7 +12,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-The first ICML workshop on **Foundation Models for Structured Data (FMSD)** will be held at the Vancouver Convention Center on **July 18-19, 2025**.
+The first [ICML](https://icml.cc/) workshop on **Foundation Models for Structured Data (FMSD)** will be held at the [Vancouver Convention Center](https://www.vancouverconventioncentre.com/) on **July 18-19, 2025**.
 We look forward to welcoming you in Vancouver! 
 
 ### Introduction

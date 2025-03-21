@@ -18,7 +18,9 @@ We welcome researchers working on foundation models for structured data to submi
 
 ## Submission Instructions
 
-Submissions should take the form of a short paper of up to **4 pages**. Additional pages containing references and appendices are allowed but the reviewers are _not obliged_ to refer to the appendices when reviewing the paper. Submissions should be made on **OpenReview (Link TBD)** in a single `.pdf` file using **this LaTeX style template (Link TBD)**. The review process in _double-blind_, so please ensure that your submission is properly anonymized. Papers that exceed the page limit or have not been properly anonymized will be desk-rejected without review. Please note that there is no rebuttal phase and the final decisions will be made based solely on the submission and the reviews. Rejected and withdrawn submissions will not be made public.
+Submissions should take the form of a short paper of up to **4 pages**. Additional pages containing references and appendices are allowed but the reviewers are _not obliged_ to refer to the appendices when reviewing the paper. Submissions should be made on **OpenReview (Link TBD)** in a single `.pdf` file using **this LaTeX style template (Link TBD)**.
+
+The review process is _double-blind_, so please ensure that your submission is properly anonymized. Papers that exceed the page limit or have not been properly anonymized will be desk-rejected without review. Please note that there is no rebuttal phase and the final decisions will be made based solely on the submission and the reviews. Rejected and withdrawn submissions will not be made public.
 
 All accepted submissions will be accompanied by a poster presentation. A number of selected submissions will be invited for lightning and oral talks. 
 
@@ -35,7 +37,7 @@ We invite submissions related to the theme of foundation models for structured d
 - **Critiques on Structured Data Foundation Models**: Contributions highlighting the limitations and failure modes of structured data foundation models through theoretical analysis or systematic empirical evaluations are welcome.
 - **Applications of Foundation Models for Structured Data**: The development of foundation models for structured data can transform numerous industries, from climate modeling and fraud detection to supply chain optimization and health monitoring. Deploying these models in real-world settings requires addressing key challenges such as model reliability and data privacy. This workshop seeks contributions (1) showcasing novel applications of foundation models in structured data domains, (2) overcoming challenges, such as scaling and inference throughput for existing applications, and (3) demonstrating domain-specific innovation, such as domain specialized foundation models. We also welcome discussions on ethical considerations, fairness, and bias mitigation in structured data models, ensuring these technologies benefit a broad range of users and applications.
 
-## Call for reviewers
+## Call for Reviewers
 
 We are also looking for reviewers for the workshop. If you would like to nominate someone (or yourself), please fill this **google form (Link TBD)**.
 

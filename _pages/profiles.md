@@ -10,6 +10,26 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
+    image: prof_pic.png
+    content: organizers/nick.md 
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Amazon Web Services</p><br>
+      <p>Seattle (US)</p><br>
+      <p><a href="https://www.linkedin.com/in/nickericksoncs/">website</a>, <a href="https://scholar.google.com/citations?user=I0nj-TcAAAAJ&hl=en">google scholar</a> </p>
+      <p><a href="mailto: innixma@gmail.com">innixma@gmail.com</a></p>  
+
+  - align: left
+    image: prof_pic.png
+    content: organizers/xiyuan.md 
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Amazon Web Services</p><br>
+      <p>Santa Clara (US)</p><br>
+      <p><a href="https://xiyuanzh.github.io/">website</a>, <a href="https://scholar.google.com/citations?user=pIEuyR8AAAAJ&hl=en">google scholar</a> </p>
+      <p><a href="mailto: xizh032@gmail.com">xizh032@gmail.com</a></p>  
+
+  - align: right
     image: organizers/abdul.png
     content: organizers/abdul.md 
     image_circular: false # crops the image to make it circular
@@ -18,74 +38,75 @@ profiles:
       <p>Berlin (DE)</p><br>
       <p><a href="https://abdulfatir.com/">website</a>, <a href="https://scholar.google.com/citations?hl=en&user=BZ0EoqIAAAAJ&view_op=list_works&sortby=pubdate">google scholar</a> </p>
       <p><a href="mailto: abdulfatirs@gmail.com">abdulfatirs@gmail.com</a></p>
-      
-  - align: left 
-    image: organizers/arjun.png
-    content: organizers/arjun.md 
+
+  - align: left
+    image: prof_pic.png
+    content: organizers/boran.md 
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p> ServiceNow Research, Mila-Quebec AI Institute and University of Montreal</p><br>
-      <p>Montreal (CA)</p><br>
-      <p><a href="https://ashok-arjun.github.io/">website</a>, <a href="https://scholar.google.com.sg/citations?hl=en&user=4ur98b4AAAAJ&view_op=list_works&authuser=2&sortby=pubdate">google scholar</a> </p>
-      <p><a href="mailto: arjun.ashok@servicenow.com">arjun.ashok@servicenow.com</a></p>
-      
+      <p>Amazon Web Services</p><br>
+      <p>Santa Clara (US)</p><br>
+      <p><a href="https://scholar.google.com/citations?user=Prwxh24AAAAJ&hl=en">google scholar</a> </p>
+      <p><a href="mailto: boranhan@amazon.com">boranhan@amazon.com</a></p>  
+
   - align: right
-    image: organizers/imry.jpeg
-    content: organizers/imry.md 
+    image: prof_pic.png
+    content: organizers/mononito.md 
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>AWS Central Economics </p><br>
-      <p>Seattle (US)</p><br>
-      <p><a href=https://scholar.google.co.il/citations?user=jCdl9g8AAAAJ&hl=en>google scholar</a> </p>
-      <p><a href="mailto: imryki@gmail.com">imryki@gmail.com</a></p>
-      
-  - align: left 
-    image: organizers/moshe.jpg
-    content: organizers/moshe.md 
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>Tel Aviv University</p><br>
-      <p>Tel Aviv (IL)</p><br>
-      <p><a href=https://scholar.google.com/citations?user=tvncwzcAAAAJ&hl=iw&oi=ao>google scholar</a> </p>
-      <p><a href="mailto: mosheunger@tauex.tau.ac.il">mosheunger@tauex.tau.ac.il</a></p>
+      <p>Company/University</p><br>
+      <p>LOCATION</p><br>
+      <p><a href="https://scholar.google.com/citations?user=TgQ72t0AAAAJ&hl=en&oi=ao">google scholar</a> </p>
+      <p><a href="mailto: mgoswami@andrew.cmu.edu">mgoswami@andrew.cmu.edu</a></p>  
 
-  - align: right 
-    image: organizers/kashif.png 
-    content: organizers/kashif.md 
+  - align: left
+    image: prof_pic.png
+    content: organizers/samuel.md 
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Morgan Stanley</p><br>
-      <p>Berlin (DE)</p><br>
-      <p><a href=https://scholar.google.com/citations?user=cfIrwmAAAAAJ&hl=en>google scholar</a> </p>
-      <p><a href="mailto: kashif.rasul@gmail.com">kashif.rasul@gmail.com</a></p>
-      
-  - align: left 
-    image: organizers/pedro.jpeg
-    content: organizers/pedro.md 
-    image_circular: false 
+      <p>Company/University</p><br>
+      <p>LOCATION</p><br>
+      <p><a href="https://scholar.google.com/citations?user=pevYEjAAAAAJ&hl=en">google scholar</a> </p>
+      <p><a href="mailto: samuelgabrielmuller@gmail.com">samuelgabrielmuller@gmail.com</a></p>  
+
+  - align: right
+    image: prof_pic.png
+    content: organizers/lennart.md 
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Company/University</p><br>
+      <p>LOCATION</p><br>
+      <p><a href="https://scholar.google.com/citations?user=x_HyTt0AAAAJ&hl=en">google scholar</a> </p>
+      <p><a href="mailto: purucker@cs.uni-freiburg.de">purucker@cs.uni-freiburg.de</a></p>  
+
+  - align: left
+    image: prof_pic.png
+    content: organizers/bernie.md 
+    image_circular: false # crops the image to make it circular
     more_info: >
       <p>Amazon Web Services</p><br>
-      <p>Berlin (DE)</p><br>
-      <p><a href="https://scholar.google.com/citations?user=FzY9Jo0AAAAJ&hl=en"</a>google scholar </p>
-      <p><a href="mailto:pedroml@amazon.de">pedroml@amazon.de</a></p>
+      <p>Santa Clara (US)</p><br>
+      <p><a href="https://scholar.google.com/citations?user=IKUm624AAAAJ&hl=en">google scholar</a> </p>
+      <p><a href="mailto: yuyawang@amazon.com">yuyawang@amazon.com</a></p>  
 
-  - align: right 
-    image: organizers/laurent.png
-    content: organizers/laurent.md 
-    image_circular: false 
+  - align: right
+    image: prof_pic.png
+    content: organizers/christos.md 
+    image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Amazon Web Services</p><br>
-      <p>Seattle (US)</p><br>
-      <p><a href=https://scholar.google.com/citations?user=bkrcSq0AAAAJ&hl=en</a>google scholar</p>
-      <p><a href="mailto:lcallot@amazon.com">lcallot@amazon.com</a></p>
-      
-  - align: left 
-    image: organizers/johannes.jpg
-    content: organizers/johannes.md 
-    image_circular: false 
+      <p>Company/University</p><br>
+      <p>LOCATION</p><br>
+      <p><a href="https://scholar.google.com/citations?user=nd8lQQIAAAAJ&hl=en">google scholar</a> </p>
+      <p><a href="mailto: christos-admin-support@cs.cmu.edu">christos-admin-support@cs.cmu.edu</a></p>  
+
+  - align: left
+    image: prof_pic.png
+    content: organizers/michael.md 
+    image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Zalando SE</p><br>
-      <p>Berlin (DE)</p><br>
-      <p><a href=https://scholar.google.com/citations?authuser=1&user=J2BEjdgAAAAJ</a>google scholar</p>
-      <p><a href="mailto:johannes.stephan@zalando.de">johannes.stephan@zalando.de</a></p>
+      <p>Company/University</p><br>
+      <p>LOCATION</p><br>
+      <p><a href="https://scholar.google.com/citations?user=QXyvv94AAAAJ&hl=en">google scholar</a> </p>
+      <p><a href="mailto: mmahoney@stat.berkeley.edu">mmahoney@stat.berkeley.edu</a></p>  
+
 ---

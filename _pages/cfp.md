@@ -7,46 +7,37 @@ nav: true
 nav_order: 1
 ---
 
-We welcome researchers working in the field of time series analysis to submit their latest original research work to the NeurIPS 2024 workshop on **Time Series in the Age of Large Models**.
+We welcome researchers working on foundation models for structured data to submit their latest original research work to the ICML 2025 workshop on **Foundation Models for Structured Data**.
 
 ## Key Information
 
-**Update Nov 26**: The list of accepted papers is available [here](/accepted-papers/) and the PDFs are available at the linked OpenReview pages.
-
-<del>**Update Oct 10**: Decisions have been released. **Titles and abstracts of all accepted papers are available [here](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/TSALM#tab-accept).** PDFs will be made public at the camera-ready stage.</del>
-
-<del>**Update Oct 9:** Due to a large number of submissions, we will announce the decisions on Oct 10 instead of on Oct 9.</del>  
-
-- Submission link: **[OpenReview](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/TSALM)**
-- Submission deadline: Sep 15, 2024 (11:59 pm AoE)
-- Acceptance notification: <del>Oct 09, 2024</del> Oct 10, 2024 (anytime before 11:59 AoE)
-- Camera ready deadline: <del>Nov 15, 2024</del> Nov 25, 2024 (7 PM EST) 
+- Submission link: **Coming Soon**
+- Submission deadline: May 19, 2025 (11:59 pm AoE)
+- Acceptance notification: June 09, 2025 (anytime before 11:59 pm AoE)
+- Camera ready deadline: July 02, 2025 (11:59 pm AoE) 
 
 ## Submission Instructions
 
-Submissions should take the form of a short paper of up to **4 pages**. Additional pages containing references and appendices are allowed but the reviewers are _not obliged_ to refer to the appendices when reviewing the paper. Submissions should be made on **[OpenReview](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/TSALM)** in a single `.pdf` file using **[this LaTeX style template](../assets/latex/timeseries-workshop-latex-template.zip)**. The review process in _double-blind_, so please ensure that your submission is properly anonymized. Papers that exceed the page limit or have not been properly anonymized will be desk-rejected without review. Please note that there is no rebuttal phase and the final decisions will be made based solely on the submission and the reviews. Rejected and withdrawn submissions will not be made public.
+Submissions should take the form of a short paper of up to **4 pages**. Additional pages containing references and appendices are allowed but the reviewers are _not obliged_ to refer to the appendices when reviewing the paper. Submissions should be made on **OpenReview (Link TBD)** in a single `.pdf` file using **this LaTeX style template (Link TBD)**. The review process in _double-blind_, so please ensure that your submission is properly anonymized. Papers that exceed the page limit or have not been properly anonymized will be desk-rejected without review. Please note that there is no rebuttal phase and the final decisions will be made based solely on the submission and the reviews. Rejected and withdrawn submissions will not be made public.
 
 All accepted submissions will be accompanied by a poster presentation. A number of selected submissions will be invited for lightning and oral talks. 
 
-**Dual submission policy**: This workshop is **non-archival**; even though all accepted papers will be available on OpenReview and this website, there are no formally-published proceedings. If a paper is currently under review at another venue, it can still be submitted to this workshop. If a paper has previously appeared in a journal, workshop, or conference, it should be reasonably extended in order to be accepted at this workshop. Parallel submission of papers under review at NeurIPS 2024 is allowed.
+**Dual submission policy**: This workshop is **non-archival**; even though all accepted papers will be available on OpenReview and this website, there are no formally-published proceedings. If a paper is currently under review at another venue, it can still be submitted to this workshop. If a paper has previously appeared in a journal, workshop, or conference, it should be reasonably extended in order to be accepted at this workshop. Parallel submission of papers under review at ICML 2025 is allowed.
 
 ## Scope and Topics
 
-We invite submissions related to the theme of time series in the age of large models. Key topics include, but are not limited to:
+We invite submissions related to the theme of foundation models for structured data. Key topics include, but are not limited to:
 
-- **Building Time Series Foundation Models**: The heterogeneity of time series data and tasks presents unique challenges in developing time series foundation models. We welcome contributions exploring various design choices and improving our understanding of how these models scale with the amount and diversity of data.
-- **Analysis of Pretrained Time Series Models**: Pretrained time series models are often criticized for their black-box nature, especially compared to interpretable statistical models. We encourage submissions that analyze pretrained time series models to enhance our understanding of their learning processes.
-- **Critiques on Time Series Foundation Models**: Contributions highlighting the limitations and failure modes of time series foundation models through theoretical analysis or systematic empirical evaluations are welcome.
-- **Faster and Better Inference Schemes for Autoregressive Time Series Models**: Single-step autoregressive time series foundation models are generally slower than multi-step models, such as those based on patching. We invite submissions comparing these techniques and developing methods to improve the inference speed and quality of autoregressive time series models.
-- **Leveraging Pretrained Models of Other Modalities for Time Series**: Recent studies show promise in adapting pretrained LLMs to specialized time series tasks. We seek to understand how design choices in leveraging these models—such as prompting techniques, adaptation methods, and fine-tuning—impact performance. We also seek to identify scenarios where these methods excel compared to training time series foundation models from scratch, in terms of model capabilities, accuracy, and training and inference times.
-- **Multimodal Time Series Models**: Most time series models handle only numerical data, often providing a partial picture of the system of interest. In real-world settings, multiple modalities are available, and incorporating exogenous information, such as text, can enhance performance. We invite submissions exploring time series models that integrate information from other modalities.
-- **Large-Scale Time Series Datasets and Benchmarks**: The quality and quantity of publicly available time series data lag behind other modalities, such as text and vision. We welcome contributions of large-scale time series data (both general and domain-specific) and benchmarks comparing various time series foundation models. We also invite methods for better synthetic time series generation and augmentation to address data challenges.
-- **Time Series Evaluation**: We seek contributions on the analysis, comparison, and development of metrics for time series tasks, including metrics for probabilistic forecasting, multivariate forecasting, and use-case motivated metrics.
-- **Real-World Applications of Large Time Series Models**: We invite contributions showcasing the potential of large time series models in real-world domains, such as energy, healthcare, retail, human mobility, and finance.
+- **Building Foundation Models for Structured Data**: Following the trends in language and vision domains, recent development in foundation models (FM) in tabular and time series capable of zero-shot inference and/or in-context learning on unseen data has challenged the conventional in-domain training and prediction paradigm. In this workshop, we seek to understand the progress in this area and the challenges associated with developing such models, including novel model designs or scaling insights. We also welcome contributions that merge structured data with other modalities, such as text and image, for enhanced performance.
+- **Datasets and Synthetic Data Generation Methods**: The amount of high-quality structured data available in the public domain is limited for developing pretrained models, especially when compared with the amount of data available for other domains, such as language and vision. Models that use real data for pre-training often use fewer than 200 datasets due to data availability issues, or are limited to pre-training on very small tables scraped from Github and Wikipedia. To address this limitation, recent work on foundation models for structured data has invested effort in developing high-fidelity synthetic data generation schemes and included this data as part of their training corpus. This workshop welcomes contributions of high quality dataset collections and synthetic data generation methods for structured foundation model training.
+- **Benchmarks of Structured Data Foundation Models**: While efforts have been made to develop unified benchmarks for tabular tasks and for time series forecasting, new efforts are required to evaluate structured foundation models comprehensively along different dimensions, such as inference throughput, memory usage, scalability, and data memorization. Another challenge exists in evaluating a foundation model where contamination of the training data exists. Mitigating contamination is particularly hard for data-hungry foundation models in the data-scarce structured data domains. We welcome contributions of novel benchmarks evaluating FMs for structured data.
+- **LLMs for Structured Data**: Large language models (LLMs) have shown remarkable reasoning and few-shot learning capabilities, and their potential in structured data tasks is emerging. Researchers have explored leveraging LLMs for predictive, reasoning, and generation tasks for structured data, often achieving competitive results without task-specific fine-tuning. However, challenges remain, including (1) the interpretability of LLM-based approaches, (2) their ability to handle large-scale structured datasets efficiently, and (3) their reliability in processing numerical data. This workshop welcomes contributions that improve the effectiveness of LLMs for structured data and highlights their strengths and limitations compared to non-LLM methods.
+- **Critiques on Structured Data Foundation Models**: Contributions highlighting the limitations and failure modes of structured data foundation models through theoretical analysis or systematic empirical evaluations are welcome.
+- **Applications of Foundation Models for Structured Data**: The development of foundation models for structured data can transform numerous industries, from climate modeling and fraud detection to supply chain optimization and health monitoring. Deploying these models in real-world settings requires addressing key challenges such as model reliability and data privacy. This workshop seeks contributions (1) showcasing novel applications of foundation models in structured data domains, (2) overcoming challenges, such as scaling and inference throughput for existing applications, and (3) demonstrating domain-specific innovation, such as domain specialized foundation models. We also welcome discussions on ethical considerations, fairness, and bias mitigation in structured data models, ensuring these technologies benefit a broad range of users and applications.
 
-## Call for reviewers (closed)
+## Call for reviewers
 
-We are also looking for reviewers for the workshop. If you would like to nominate someone (or yourself), please fill this [google form](https://docs.google.com/forms/d/e/1FAIpQLSdOa2gEKTmpSvqa9tbQGEQbm7uxmGlht-04qA3u0agoWIaO5w/viewform).
+We are also looking for reviewers for the workshop. If you would like to nominate someone (or yourself), please fill this **google form (Link TBD)**.
 
 ## Reviewer Guidelines
 
@@ -83,4 +74,4 @@ A review should have the following content.
 
 ## Contact
 
-If you have questions about this workshop or are not sure if your paper's topic is suitable for submission, please feel free to contact the organizers at [neurips-time-series-workshop@googlegroups.com](mailto:neurips-time-series-workshop@googlegroups.com).
+If you have questions about this workshop or are not sure if your paper's topic is suitable for submission, please feel free to contact the organizers at **Contact Email TBD**.

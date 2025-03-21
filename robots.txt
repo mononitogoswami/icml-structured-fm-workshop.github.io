@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://icml-structured-fm-workshop.github.io/al-folio/sitemap.xml
+Sitemap: https://icml-structured-fm-workshop.github.io/sitemap.xml

@@ -50,13 +50,13 @@ profiles:
       <p><a href="mailto: boranhan@amazon.com">boranhan@amazon.com</a></p>  
 
   - align: right
-    # image: prof_pic.png
+    image: organizers/mononito.jpeg
     content: organizers/mononito.md 
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Company/University</p><br>
-      <p>LOCATION</p><br>
-      <p><a href="https://scholar.google.com/citations?user=TgQ72t0AAAAJ&hl=en&oi=ao">google scholar</a> </p>
+      <p>Carnegie Mellon University</p><br>
+      <p>Pittsburgh (US)</p><br>
+      <p><a href="https://mononito.com">website</a>, <a href="https://scholar.google.com/citations?user=TgQ72t0AAAAJ&hl=en&oi=ao">google scholar</a> </p>
       <p><a href="mailto: mgoswami@andrew.cmu.edu">mgoswami@andrew.cmu.edu</a></p>  
 
   - align: left

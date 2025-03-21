@@ -8,13 +8,13 @@ nav_order: 6
 
 profiles:
   - align: right
-    image: prof_pic.png
+    image: speakers/frank.jpg
     content: speakers/frank.md
     image_circular: false # crops the image to make it circular
     more_info: >
 
   - align: left
-    image: prof_pic.png
+    image: speakers/yan.jpeg
     content: speakers/yan.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -32,13 +32,13 @@ profiles:
     more_info: >
 
   - align: right
-    image: prof_pic.png
+    image: speakers/josh.png
     content: speakers/josh.md
     image_circular: false # crops the image to make it circular
     more_info: >
 
   - align: left
-    image: prof_pic.png
+    image: speakers/hao.jpeg
     content: speakers/hao.md
     image_circular: false # crops the image to make it circular
     more_info: >

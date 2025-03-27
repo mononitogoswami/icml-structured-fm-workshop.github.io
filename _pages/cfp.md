@@ -41,7 +41,7 @@ We invite submissions related to the theme of foundation models for structured d
 
 ## Call for Reviewers
 
-We are looking for reviewers for the workshop. If you would like to nominate someone (or yourself), please fill this **google form (Link TBD)**.
+We are looking for reviewers for the workshop. If you would like to nominate someone (or yourself), please fill the **[Call for Reviewers Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe1pjelLNsrdS6Q18bg2ZH6zTbMOX5AZSqcn-0a3ITVEu95xA/viewform?usp=sharing)**.
 
 ## Reviewer Guidelines
 

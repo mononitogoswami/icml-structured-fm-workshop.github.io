@@ -64,9 +64,9 @@ profiles:
     content: organizers/samuel.md 
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>University of Freiburg</p><br>
-      <p>Freiburg (DE)</p><br>
-      <p><a href="https://ml.informatik.uni-freiburg.de/profile/mueller/">website</a>, <a href="https://scholar.google.com/citations?user=pevYEjAAAAAJ&hl=en">google scholar</a> </p>
+      <p>Meta</p><br>
+      <p>New York (USA)</p><br>
+      <p><a href="https://samuelgabriel.github.io/index.pdf">website</a>, <a href="https://scholar.google.com/citations?user=pevYEjAAAAAJ&hl=en">google scholar</a> </p>
       <p><a href="mailto: samuelgabrielmuller@gmail.com">samuelgabrielmuller@gmail.com</a></p>  
 
   - align: right

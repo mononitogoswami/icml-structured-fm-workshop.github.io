@@ -23,6 +23,10 @@ Structured data foundation models are an emerging area of research undergoing ra
 
 **The workshop on Foundation Models for Structured Data (FMSD) offers a place to jointly discuss foundation models for structured data**, effectively addressing the gap and enabling the communities to capitalize on their synergies. We aim for advancements in foundation models that unify structured data modalities, addressing challenges of scalability and generalization across real-world applications. 
 
+**Scope Clarification**: We use the term **structured data** to specifically refer to **tabular and time series data**, and our focus is on **predictive machine learning tasks** such as tabular classification, regression and time series forecasting. For example, general-purpose graph-based methods are out of scope of this workshop, but foundation models for spatio-temporal forecasting that leverage graph-based architectures are considered in-scope, since the primary goal aligns with predictive structured data modeling. Another example is that tabular question answering system falls outside the scope as it does not focus on predictive tasks. To help guide submissions, here are a few clearly relevant prior works that align with the goals of this workshop: 
+- **Time series**: Chronos, TimesFM, Moirai, Moment
+- **Tabular**: TabPFN, TabICL, TabForestPFN, CARTE
+
 The key topics of this workshop include, but are not limited to:
 - **Building Foundation Models for Structured Data**
 - **Datasets and Synthetic Data Generation Methods**

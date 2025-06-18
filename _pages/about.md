@@ -40,7 +40,7 @@ Please see the [Call for Papers](/call-for-papers/) for details.
 We thank our sponsor: 
 
 ![Layer6Logo](/assets/img/Layer6_Logo.png) 
-* TD Bank offers products and services to over 27.9million customers worldwide. Through our AI research lab - Layer6, we develop and deploy industry-leading AI and machine learning systems to advance the field of artificial intelligence in the financial services industry.
+* TD Bank offers products and services to over 27.9 million customers worldwide. Through our AI research lab - Layer6, we develop and deploy industry-leading AI and machine learning systems to advance the field of artificial intelligence in the financial services industry.
 
 ### Schedule
 

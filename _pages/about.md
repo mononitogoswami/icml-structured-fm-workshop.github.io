@@ -46,9 +46,26 @@ We thank our sponsor:
 
 **July 18th 2025, Room West Ballroom D, Vancouver Convention Center**
 
-Refer to the [ICML website](https://icml.cc/) for the detailed schedule.
+The workshop will consist of 6 30-minute invited talks, 8 10-minute spotlight paper talks, and two poster sessions with contributed papers. All times are in Pacific Daylight Time (GMT-7), the local time in Vancouver. The best paper award(s) will be announced on the day of the workshop, selected among the 8 spotlight papers. You can find the tentative workshop schedule below:
 
-Detailed schedule TBD.
+| Time | Session |
+|------|---------|
+| 09:00 – 09:15 | <span style="color:#DDDDDD">Introduction and Opening Remarks</span> |
+| 09:15 – 09:45 | <span style="color:#4A90E2">Invited Talk 1</span> |
+| 09:45 – 10:15 | <span style="color:#4A90E2">Invited Talk 2</span> |
+| 10:15 – 10:30 | <span style="color:orange">Coffee Break</span> |
+| 10:30 – 11:10 | <span style="color:#9B59B6">Spotlight Papers (4 Papers)</span> |
+| 11:10 – 12:50 | <span style="color:#A8CF79">Poster Session and Lunch</span> |
+| 12:50 – 13:20 | <span style="color:#4A90E2">Invited Talk 3</span> |
+| 13:20 – 14:00 | <span style="color:#9B59B6">Spotlight Papers (4 Papers)</span> |
+| 14:00 – 14:30 | <span style="color:#4A90E2">Invited Talk 4</span> |
+| 14:30 – 15:00 | <span style="color:#4A90E2">Invited Talk 5</span> |
+| 15:00 – 15:15 | <span style="color:orange">Coffee Break</span> |
+| 15:15 – 15:45 | <span style="color:#4A90E2">Invited Talk 6</span> |
+| 15:45 – 16:45 | <span style="color:#A8CF79">Poster Session</span> |
+| 16:45 – 17:00 | <span style="color:#DDDDDD">Closing Remarks</span> |
+
+Refer to the [ICML website](https://icml.cc/) for the detailed schedule.
 
 ### Contact
 

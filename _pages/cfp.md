@@ -43,6 +43,60 @@ We invite submissions related to the theme of foundation models for structured d
 - **Time series**: Chronos, TimesFM, Moirai, Moment
 - **Tabular**: TabPFN, TabICL, TabForestPFN, CARTE
 
+## Camera Ready FAQ
+
+**Q: What is the camera ready page limit?**  
+**A:** 4 pages.
+
+---
+
+**Q: What is the required poster format?**  
+**A:** Same as the ICML Conference guidelines: [ICML 2025 Poster Instructions](https://icml.cc/Conferences/2025/PosterInstructions)
+
+---
+
+**Q: How do I update the style file?**  
+**A:**  
+Modify the `icml2025.sty` file. For example, replace:
+```latex
+% \newcommand{\ICML@appearing}{\textit{Proceedings of the
+% $\mathit{42}^{nd}$ International Conference on Machine Learning},
+% Vancouver, Canada. PMLR 267, 2025.
+% Copyright 2025 by the author(s).}
+```
+with:
+```latex
+\newcommand{\ICML@appearing}{\textit{Proceedings of the
+$\mathit{1}^{st}$ ICML Workshop on Foundation Models for Structured Data},
+Vancouver, Canada. 2025.
+Copyright 2025 by the author(s).}
+```
+
+---
+
+**Q: How do I submit the camera-ready version? Do I uncomment the camera-ready line in the LaTeX file, download it, and re-upload?**  
+**A:** Yes. Follow the template instructions to generate the final version and then re-upload it to the system.
+
+---
+
+**Q: I can’t find an upload option or clear instructions on the workshop website. What should I do?**  
+**A:** Please follow the general ICML instructions and the LaTeX template comments to prepare your camera-ready version.
+
+---
+
+**Q: Will there be an option for online attendance?**  
+**A:** Talks will be livestreamed by ICML. Poster sessions and other in-person events will not be shared online.
+
+---
+
+**Q: None of the authors can attend in-person, can the organizers print our paper's poster and bring it to the workshop for us?**  
+**A:** We are still evaluating our options for these cases. We recommend seeing if anyone you know (even outside the author list) is attending in-person and would be able to print/bring the poster to the workshop. If you are unable to find someone to deliver the poster, please email the organizers with your situation.
+
+---
+
+**Q: Can the organizers assist with travel issues / fee waivers?**  
+**A:** Unfortunately we are unable to assist with travel issues or waive registration fees.
+
 ## Call for Reviewers
 
 We are looking for reviewers for the workshop. If you would like to nominate someone (or yourself), please fill the **[Call for Reviewers Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe1pjelLNsrdS6Q18bg2ZH6zTbMOX5AZSqcn-0a3ITVEu95xA/viewform?usp=sharing)**.

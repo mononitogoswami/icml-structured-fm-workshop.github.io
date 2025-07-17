@@ -34,3 +34,9 @@ layout: page
     {% endif %}
   </article>
 </div>
+
+{% if page.reviewer_thanks %}
+  <div class="reviewer-thanks" style="margin-top: 2em;">
+    {{ page.reviewer_thanks | markdownify }}
+  </div>
+{% endif %}

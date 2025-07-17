@@ -37,10 +37,15 @@ The key topics of this workshop include, but are not limited to:
 
 Please see the [Call for Papers](/call-for-papers/) for details.
 
-We thank our sponsor: 
+We thank our sponsors: 
 
 ![Layer6Logo](/assets/img/Layer6_Logo.png) 
 * TD Bank offers products and services to over 27.9 million customers worldwide. Through our AI research lab - Layer6, we develop and deploy industry-leading AI and machine learning systems to advance the field of artificial intelligence in the financial services industry.
+
+![PriorLabsLogo](/assets/img/prior_labs_logo.svg) 
+* PriorLabs is building the next generation of foundation models for structured data. We develop and deploy state-of-the-art tabular foundation models—like TabPFN—to unlock new capabilities in scientific discovery, finance, healthcare, analytics, and beyond. Our current model, TabPFN v2, was published in Nature in January 2025 and sets a new benchmark for tabular data. Our mission is to revolutionize data science and advance the frontier of machine learning for real-world decision-making across industries. 
+* Sponsored FMSD Event by PriorLabs: https://lu.ma/2q1wm635 
+
 
 ### Schedule
 
